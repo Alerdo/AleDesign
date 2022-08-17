@@ -1,0 +1,107 @@
+.info { opacity: 0.5;
+text-align: left;}
+
+
+body { 
+	font-family: sans-serif;
+	background-color: #d8ede5 ;
+	margin:0;
+}
+
+
+header {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 0;
+	background-color: azure;
+}
+
+nav a { 
+	border: 1px solid black;
+	font-size: 17px;
+	background-color: azure;
+	padding: 10px 40px;
+}
+
+main { 
+	text-align: center;
+}
+
+section { 
+	border: 0.1px solid black;
+	margin-bottom: 5px;
+	box-shadow: 3px 4px 5px 5px gray;
+}
+
+h2 { 
+	background-color: antiquewhite;
+	padding: 10px 30px;
+}
+
+h3 { 
+	background-color: azure;
+	display: inline;
+}
+
+div {
+	border: 1px solid black;
+	width 100px;
+	height:15px;
+	border-radius: 3px;
+	
+	margin-top: 10px;
+	padding: 20px 0px;
+}
+
+
+ .col1 {
+	background-color: #B1E9D3;
+}
+
+
+ .col2 {
+	background-color: #659DBD;
+}
+
+
+ .col3 {
+	background-color: #EEE2DC;
+}
+
+.colors h3 {
+	background-color: #d8ede5;
+}
+
+
+.font1, .font1 p {
+	font-family: "Source Code Pro"
+}
+
+
+.font2, font2 p {
+	font-family: "Nunito Sans";
+}
+
+.font3, font3 p {
+	font-family: "Poppins";
+}
+
+main p {
+	font-size: 17px;
+}
+
+ul  {
+list-style-type: none;  
+}
+
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: azure;
+	background-color: gray;
+	
+}
